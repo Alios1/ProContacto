@@ -182,7 +182,8 @@ Es la funcionalidad para que los clientes hagan una solicitud de soporte.
 **N.	¿Para qué sirve la funcionalidad Omnichannel?**     
 Es una funcionalidad de Servicio al Cliente que ayuda con el redireccionamiento de objetos de trabajo (Como Leads y Cases).
 
-**O.	¿Para qué sirve la funcionalidad Chatter?** 		
+**O.	¿Para qué sirve la funcionalidad Chatter?** 
+
 Es una funcionalidad de comunciación dentro de Salesforce
 
 
