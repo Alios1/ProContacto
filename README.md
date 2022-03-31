@@ -234,6 +234,7 @@ Salesforce tiene funciones de ERP, aparte de otras.
 
 
 ## Ejercicio 7
+Consulta de ID y de email.
 
 #### Appex Class 
     global class GetProContacto 
